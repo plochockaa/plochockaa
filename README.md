@@ -28,7 +28,7 @@ stack = {
 |------|-------------|
 | [govscan_streamlit](https://github.com/plochockaa/govscan_streamlit) | Scans and classifies international government GitHub organisations — live Streamlit app |
 | [name_origin](https://github.com/plochockaa/name_origin) | Probabilistic name-to-country inference with LLM-assisted ranking and evaluation harness |
-
+| [rag_pipeline](https://github.com/plochockaa/rag_pipeline) | A modular RAG pipeline |
 ---
 
 ## Background 🌱
